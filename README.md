@@ -30,7 +30,7 @@ That means writing non-trivial PostgreSQL, building Python data pipelines, using
 | 🐘 **PostgreSQL / SQL** | 158+ SQL challenges, complex joins, subqueries, CTEs, window functions, conditional logic, aggregation |
 | 🐍 **Python** | 113+ algorithmic/data problems, scripting, Pandas, data processing, automation |
 | 🔎 **Regex** | Precision matching, structured extraction, negative lookaheads, non-capturing groups, noisy text parsing |
-| 🧩 **Problem Solving** | 200+ combined SQL/Python challenges across LeetCode & HackerRank |
+| 🧩 **Problem Solving** | 270+ combined SQL/Python challenges across LeetCode & HackerRank |
 | 💳 **Healthcare Billing Concepts** | Basic familiarity with **CPT coding concepts** and healthcare documentation context; currently building deeper billing knowledge |
 | 🧠 **Ambiguous Problems** | Breaking poorly structured datasets and unclear requirements into explicit, testable logic |
 

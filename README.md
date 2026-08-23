@@ -230,7 +230,7 @@ This project represents the kind of problem I enjoy most:
 
 > **The data is messy, the rules are incomplete, and the solution has to be precise.**
 
-📁 **Project:** [Healthcare Provider Data Pipeline](./healthcare-provider-data-pipeline)
+📁 **Project:** [Healthcare Provider Data Pipeline](https://github.com/Nayem-Shakh/Python-Regex-HealthcareData-Cleaning)
 
 ---
 

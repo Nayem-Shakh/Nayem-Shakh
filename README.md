@@ -97,7 +97,7 @@ I treat it as a **problem-solving language** for transforming raw relational dat
 
 - **HackerRank:** ~50 Python challenges
 - **LeetCode:** 65 algorithmic problems
-- **Combined SQL + Python practice:** 200+ problems
+- **Combined SQL + Python practice:** 270+ problems
 
 ### Core Patterns
 

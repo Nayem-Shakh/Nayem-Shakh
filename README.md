@@ -173,7 +173,7 @@ Rather than stopping at visualization, I used the data to investigate the operat
 - Visualization
 - Translating data patterns into business hypotheses
 
-📁 **Project:** [Healthcare Operations Analysis](./healthcare-operations-analysis)
+📁 **Project:** [Healthcare Operations Analysis](https://github.com/Nayem-Shakh/Healthcare-Operations-Analysis-Python)
 
 ---
 
@@ -267,7 +267,7 @@ Patients
 
 The project helped me practice reasoning about how information should be connected **before** writing the query that retrieves it.
 
-📁 **Project:** [Hospital Management System Database](./hospital-management-system)
+📁 **Project:** [Hospital Management System Database](https://github.com/Nayem-Shakh/Hospital-Management-System-SQL-Data-Analysis)
 
 ---
 
@@ -293,7 +293,7 @@ A PostgreSQL analysis project using NYC Citi Bike data to investigate rider beha
 - Window functions
 - Analytical SQL
 
-📁 **Project:** [NYC Citi Bike SQL Analysis](./nyc-citi-bike-sql-analysis)
+📁 **Project:** [NYC Citi Bike SQL Analysis](https://github.com/Nayem-Shakh/NYC-Citi-Bike-SQL-Analysis)
 
 ---
 
@@ -419,11 +419,11 @@ My repositories intentionally combine **technical problem solving with healthcar
 
 | Project | Focus | Tech |
 |---|---|---|
-| 🏥 [Healthcare Provider Data Pipeline](./healthcare-provider-data-pipeline) | ETL, Regex, data standardization | Python, Regex, Pandas |
-| 🏥 [Healthcare Operations Analysis](./healthcare-operations-analysis) | Operational anomaly investigation | Python, Pandas, Matplotlib |
-| 🗄️ [Hospital Management System](./hospital-management-system) | Relational database architecture | SQL |
-| 🚲 [NYC Citi Bike SQL Analysis](./nyc-citi-bike-sql-analysis) | Advanced analytical SQL | PostgreSQL |
-| 🧩 [LeetCode & HackerRank Vault](./leetcode-hackerrank-vault) | Algorithmic problem solving | SQL, Python |
+| 🏥 [Healthcare Provider Data Pipeline](https://github.com/Nayem-Shakh/Python-Regex-HealthcareData-Cleaning) | ETL, Regex, data standardization | Python, Regex, Pandas |
+| 🏥 [Healthcare Operations Analysis](https://github.com/Nayem-Shakh/Healthcare-Operations-Analysis-Python) | Operational anomaly investigation | Python, Pandas, Matplotlib |
+| 🗄️ [Hospital Management System](https://github.com/Nayem-Shakh/Hospital-Management-System-SQL-Data-Analysis) | Relational database architecture | SQL |
+| 🚲 [NYC Citi Bike SQL Analysis](https://github.com/Nayem-Shakh/NYC-Citi-Bike-SQL-Analysis) | Advanced analytical SQL | PostgreSQL |
+| 🧩 [LeetCode & HackerRank Vault](https://github.com/Nayem-Shakh/LeetCode-and-HackerRank-Vault) | Algorithmic problem solving | SQL, Python |
 
 ---
 
@@ -468,9 +468,9 @@ I’m actively expanding this portfolio into more production-style projects invo
 
 I’m interested in opportunities involving **Data Operations, Healthcare Analytics, SQL Engineering, Data Quality, ETL, and workflow automation**.
 
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/)
-- 🧑‍💻 GitHub: [Your GitHub](https://github.com/)
-- 📧 Email: [Your Email](mailto:your-email@example.com)
+- 💼 LinkedIn: (https://www.linkedin.com/in/md-nayem-shakh/)
+- 🧑‍💻 GitHub: (https://github.com/Nayem-Shakh)
+- 📧 Email: (mohammadnayempersonal@gmail.com)
 
 ---
 
@@ -489,11 +489,11 @@ Hands-on Retool exposure, automation-oriented projects, and a habit of investiga
 
 Start here:
 
-**1.** [Healthcare Provider Data Pipeline](./healthcare-provider-data-pipeline)  
-**2.** [Healthcare Operations Analysis](./healthcare-operations-analysis)  
-**3.** [NYC Citi Bike SQL Analysis](./nyc-citi-bike-sql-analysis)  
-**4.** [Hospital Management System](./hospital-management-system)  
-**5.** [LeetCode & HackerRank Vault](./leetcode-hackerrank-vault)
+**1.** [Healthcare Provider Data Pipeline](https://github.com/Nayem-Shakh/Python-Regex-HealthcareData-Cleaning).  
+**2.** [Healthcare Operations Analysis](https://github.com/Nayem-Shakh/Healthcare-Operations-Analysis-Python)  
+**3.** [NYC Citi Bike SQL Analysis](https://github.com/Nayem-Shakh/Hospital-Management-System-SQL-Data-Analysis)  
+**4.** [Hospital Management System](https://github.com/Nayem-Shakh/NYC-Citi-Bike-SQL-Analysis)  
+**5.** [LeetCode & HackerRank Vault](https://github.com/Nayem-Shakh/LeetCode-and-HackerRank-Vault)
 
 The common thread across all five projects is simple:
 
